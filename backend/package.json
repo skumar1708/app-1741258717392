@@ -1,0 +1,1 @@
+{ "name": "dino-game-backend", "version": "1.0.0", "description": "Dino Game Backend", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.17.1", "mongoose": "^5.12.1", "dotenv": "^10.0.0" }, "devDependencies": { "nodemon": "^2.0.7" } }
